@@ -1,16 +1,31 @@
-## Hi there 👋
+# hey, i'm Sarvagya 👾
 
-<!--
-**SavvyCode15/SavvyCode15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*i train models. they train me back.*
 
-Here are some ideas to get you started:
+> building things that learn, break, and occasionally work in production.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+AI/Data Engineer | somewhere between clean pipelines and 2am debugging sessions.  
+Currently obsessed with → ML pipelines, vector DBs, and making SQL do things it wasn't meant to do.
+
+---
+
+## 🛠️ stuff i work with
+
+**the usual suspects**  
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=postgresql)
+![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazonaws)
+
+**ml things**  
+Scikit-learn · XGBoost · PyTorch · MLflow · Hugging Face (when i'm feeling fancy)
+
+**data things**  
+PostgreSQL · Pandas  · S3
+
+---
+
+## 📫 find me elsewhere
+
+[linkedin](https://linkedin.com/in/YOURLINKEDIN) · [email](mailto:YOUREMAIL@gmail.com)
+
+*always open to talk ML, weird data problems, or why your model keeps overfitting.*
